@@ -67,7 +67,6 @@
         <td>16/01/2023</td>
         <td>25</td>
     </tr>
-
     <tr>
         <td colspan="4" style="text-align: center">максимален брой точки</td>
         <td>80</td>
