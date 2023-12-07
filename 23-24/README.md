@@ -183,9 +183,9 @@
     <thead>
         <tr>
             <th width="120">N</th>
-            <th width="330px">Тема</th>
-            <th width="280px">Проекто итерация</th>
-            <th width="280px">Самостоятелна работа</th>
+            <th width="280px">Тема</th>
+            <th width="305px">Проекто итерация</th>
+            <th width="305px">Самостоятелна работа</th>
         </tr>
     </thead>
     <tbody>
@@ -197,11 +197,7 @@
             <td>
                 Строеж и организация на софтуерна компания 
             </td>
-            <td rowspan="2">
-                <center>
-                    <a href="./упражнения - отборни/p1/README.md">ПИ1</a>
-                </center>
-            </td>
+            <td colspan="2"><a href="./упражнения - отборни/p1/README.md">ПИ1</a></td>
             <td> ❌ </td>
         </tr>
         <tr>
