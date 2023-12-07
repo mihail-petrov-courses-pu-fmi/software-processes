@@ -183,9 +183,9 @@
     <thead>
         <tr>
             <th width="120">N</th>
-            <th width="280px">Тема</th>
-            <th width="305px">Проекто итерация</th>
-            <th width="305px">Самостоятелна работа</th>
+            <th width="320px">Тема</th>
+            <th width="285px">Проекто итерация</th>
+            <th width="285px">Самостоятелна работа</th>
         </tr>
     </thead>
     <tbody>
@@ -197,7 +197,7 @@
             <td>
                 Строеж и организация на софтуерна компания 
             </td>
-            <td colspan="2"><a href="./упражнения - отборни/p1/README.md">ПИ1</a></td>
+            <td rowspan="2"><a href="./упражнения - отборни/p1/README.md">ПИ1</a></td>
             <td> ❌ </td>
         </tr>
         <tr>
@@ -221,7 +221,7 @@
             <td>
                 Бизнес комуникация - устна и писмена
             </td>            
-            <td colspan="2">ПИ2</td>
+            <td rowspan="2">ПИ2</td>
             <td><a href="./упражнения - индивидуални/p1/README.md">СР1</a></td>
         </tr>
         <tr>
@@ -257,8 +257,8 @@
             <td>
                 DevOps - когато програмистите срещат сървара
             </td>
-            <td colspan="2">ПИ4</td>
-            <td>СР1</td>
+            <td rowspan="2">ПИ4</td>
+            <td>СР4</td>
         </tr>
         <tr>
             <td>
