@@ -197,12 +197,8 @@
             <td>
                 Строеж и организация на софтуерна компания 
             </td>
-            <td rowspan="2">
-                <div>
-                    <center>
-                        <a href="./упражнения - отборни/p1/README.md">ПИ1</a>
-                    </center>
-                </div>
+            <td rowspan="2" align="center">
+                <a href="./упражнения - отборни/p1/README.md">ПИ1</a>
             </td>
             <td> ❌ </td>
         </tr>
@@ -215,7 +211,7 @@
             <td>
                     Моята роля - какъв ще стана като порастна
             </td>
-            <td> ❌ </td>
+            <td align="center"> ❌ </td>
         </tr>
         <tr>
             <td>
@@ -226,8 +222,8 @@
             <td>
                 Бизнес комуникация - устна и писмена
             </td>            
-            <td rowspan="2">ПИ2</td>
-            <td><a href="./упражнения - индивидуални/p1/README.md">СР1</a></td>
+            <td rowspan="2" align="center">ПИ2</td>
+            <td align="center"><a href="./упражнения - индивидуални/p1/README.md">СР1</a></td>
         </tr>
         <tr>
             <td>
@@ -238,7 +234,7 @@
             <td>
                 Бизнес анализ - какво иска клиента
             </td>
-            <td>СР2</td>
+            <td align="center">СР2</td>
         </tr>
         <tr>
             <td>
@@ -249,8 +245,8 @@
             <td>
                 Управление на проекти - принципи и инструменти
             </td>
-            <td>ПИ3</td>
-            <td>СР3</td>
+            <td align="center">ПИ3</td>
+            <td align="center">СР3</td>
         </tr>                
         <tr>
             <td>
@@ -261,8 +257,8 @@
             <td>
                 DevOps - когато програмистите срещат сървара
             </td>
-            <td rowspan="2">ПИ4</td>
-            <td>СР4</td>
+            <td rowspan="2" align="center">ПИ4</td>
+            <td align="center">СР4</td>
         </tr>
         <tr>
             <td>
@@ -273,7 +269,7 @@
             <td>
                 Тестване на софтуерни продукти
             </td>
-            <td>❌</td>
+            <td align="center">❌</td>
         </tr>
     <tbody>
 </table>
