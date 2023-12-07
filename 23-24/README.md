@@ -183,9 +183,9 @@
     <thead>
         <tr>
             <th width="120">N</th>
-            <th width="280px">Тема</th>
-            <th width="305px">Проекто итерация</th>
-            <th width="305px">Самостоятелна работа</th>
+            <th width="550">Тема</th>
+            <th width="170">Проекто итерация</th>
+            <th width="170">Самостоятелна работа</th>
         </tr>
     </thead>
     <tbody>
@@ -199,7 +199,9 @@
             </td>
             <td rowspan="2">
                 <center>
-                    <a href="./упражнения - отборни/p1/README.md">ПИ1</a>
+                    <div>
+                        <a href="./упражнения - отборни/p1/README.md">ПИ1</a>
+                    </div>
                 </center>
             </td>
             <td> ❌ </td>
