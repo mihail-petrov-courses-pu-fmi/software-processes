@@ -197,7 +197,11 @@
             <td>
                 Строеж и организация на софтуерна компания 
             </td>
-            <td colspan="2"><a href="./упражнения - отборни/p1/README.md">ПИ1</a></td>
+            <td rowspan="2">
+                <center>
+                    <a href="./упражнения - отборни/p1/README.md">ПИ1</a>
+                </center>
+            </td>
             <td> ❌ </td>
         </tr>
         <tr>
