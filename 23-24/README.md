@@ -200,7 +200,7 @@
             <td rowspan="2" align="center">
                 <a href="./упражнения - отборни/p1/README.md">ПИ1</a>
             </td>
-            <td> ❌ </td>
+            <td align="center"> ❌ </td>
         </tr>
         <tr>
             <td>
