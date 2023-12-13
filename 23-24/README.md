@@ -224,9 +224,11 @@
             </td>            
             <td rowspan="2" align="center">ПИ2</td>
             <td align="center">
-            <a href="./упражнения - индивидуални/hw1/mihail/README.md">група 1/2 СР1</a>
+            <a href="./упражнения - индивидуални/hw1/mihail/README.md">СР1 група 1</a>
             <br>
-            <a href="./упражнения - индивидуални/hw1/mihail/README.md">група 3 СР1</a>
+            <a href="./упражнения - индивидуални/hw1/mihail/README.md">СР1 група 2</a>
+            <br>
+            <a href="./упражнения - индивидуални/hw1/angel/README.md">СР1 група 3</a>
             </td>
         </tr>
         <tr>
