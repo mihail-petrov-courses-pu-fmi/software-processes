@@ -222,7 +222,9 @@
             <td>
                 Бизнес комуникация - устна и писмена
             </td>            
-            <td rowspan="2" align="center">ПИ2</td>
+            <td rowspan="2" align="center">
+                <a href="./упражнения - отборни/p2/README.md">ПИ2</a>
+            </td>
             <td align="center">
             <a href="./упражнения - индивидуални/hw1/mihail/README.md">СР1 група 1</a>
             <br>
