@@ -247,7 +247,13 @@
             <td>
                 Бизнес анализ - какво иска клиента
             </td>
-            <td align="center">СР2</td>
+            <td align="center">
+            <a href="./упражнения - индивидуални/hw2/mihail/README.md">СР2 група 1</a>
+            <br>
+            <a href="./упражнения - индивидуални/hw2/mihail/README.md">СР2 група 2</a>
+            <br>
+            <a href="./упражнения - индивидуални/hw2/angel/README.md">СР2 група 3</a>
+            </td>
         </tr>
         <tr>
             <td>
