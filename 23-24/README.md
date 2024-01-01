@@ -264,8 +264,16 @@
             <td>
                 Управление на проекти - принципи и инструменти
             </td>
-            <td align="center">ПИ3</td>
-            <td align="center">СР3</td>
+            <td align="center">
+                <a href="./упражнения - отборни/p3/README.md">
+                    ПИ3
+                </a>
+            </td>
+            <td align="center">
+                <a href="./упражнения - индивидуални/hw3/README.md">
+                    СР3
+                </a>
+            </td>
         </tr>                
         <tr>
             <td>
@@ -276,8 +284,16 @@
             <td>
                 DevOps - когато програмистите срещат сървара
             </td>
-            <td rowspan="2" align="center">ПИ4</td>
-            <td align="center">СР4</td>
+            <td rowspan="2" align="center">
+                <a href="./упражнения - отборни/p4/README.md">
+                    ПИ4
+                </a>
+            </td>
+            <td align="center">
+                <a href="./упражнения - индивидуални/hw4/README.md">
+                    СР4
+                </a>
+            </td>
         </tr>
         <tr>
             <td>
