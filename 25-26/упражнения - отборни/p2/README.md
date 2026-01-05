@@ -77,7 +77,6 @@
 Създайте безплатен акаунт в Jira [Jira](https://www.atlassian.com/software/jira) и разпределете ресурсите на вашия екип. Необходимо е да създадете набор от **user stories** карти, които да описват какви са основните задачи, които всеки един от членовете на Dev екипа трябва да разработи.
 
 Предоставяме ви няколко примерни Trello проекта, от които да почерпите вдъхновение за вашата организация. Няма значение, коя е програмата която се ползва - важен е начина по който са организирани отделните задачи
-- [**https://trello.com/b/WbVyrYxt/company-retreat-planning**](https://trello.com/b/WbVyrYxt/company-retreat-planning)
 - [**https://trello.com/b/ZE5BzGZD/okrs**](https://trello.com/b/ZE5BzGZD/okrs)
 
 **Product owner**
