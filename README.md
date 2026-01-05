@@ -30,3 +30,76 @@
 - [2021 - 2022](./21-22/)
 - [2020 - 2021](./20-21/)
 - [2019 - 2020](./19-20/)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+stu2201321004@uni-plovdiv.bg -  Иван Дановски
+stu2201321044@uni-plovdiv.bg - Константин Тарасевидч
+
+***
+stu2201321011@uni-plovdiv.bg - Васил Чушев
+stu2201321014@uni-plovdiv.bg - Петър Иванов
+stu2201321059@uni-plovdiv.bg - Йоана Гаджакова
+stu2201321049@uni-plovdiv.bg - Ива Семкова
+stu2201321015@uni-plovdiv.bg - Тодор Арнаудов
+stu2201321003@uni-plovdiv.bg - Селмер Мехмед
+stu2201321017@uni-plovdiv.bg - Иво Стоянов
+stu2201321025@uni-plovdiv.bg - Стамен Владимиров
+stu2201321084@uni-plovdiv.bg - Стефан Георгиев
+stu2201321035@uni-plovdiv.bg - Мариан Драганов
+stu2201321086@uni-plovdiv.bg - Кристиян Баев
+stu2201321030@uni-plovdiv.bg - Стефани Циркалов
+stu2201321089@uni-plovdiv.bg - Живомир Димитров
+stu2201321091@uni-plovdiv.bg - Георги Попов
+
+***
+stu2201321052@uni-plovdiv.bg - Стефко Цоневски 
+stu2201321077@uni-plovdiv.bg - Мирослав Узунов
+stu2201321005@uni-plovdiv.bg - Борис Лазаров
+stu2201321039@uni-plovdiv.bg - Момчил Симеонов
+stu2201321012@uni-plovdiv.bg - Даниел Стоев
+stu2201321027@uni-plovdiv.bg - Виктор Дачев
+stu2201321085@uni-plovdiv.bg - Димитър Тотев
+
+
+stu2201321062@uni-plovdiv.bg - Кристиян Краев
+stu2201321028@uni-plovdiv.bg - Диян Генов
+stu2201321058@uni-plovdiv.bg - Михаел Балийска
+stu2201321042@uni-plovdiv.bg - Маноел Сотиров
+stu2201321047@uni-plovdiv.bg - Ивайло Илиев
+stu2201321061@uni-plovdiv.bg - Георги Петков
+stu2201321024@uni-plovdiv.bg - Велизар Иванов
+stu2201321070@uni-plovdiv.bg - Георги Бравов 
+stu2001321056@uni-plovdiv.bg - Атанас Танков
+stu2201321087@uni-plovdiv.bg - Георги Петков
+stu2201321001@uni-plovdiv.bg - Мария Заимова
+stu2201321045@uni-plovdiv.bg - Коста Гьоргиев
+stu2201321098@uni-plovdiv.bg - Димитар Стойнев
+stu2201321008@uni-plovdiv.bg - Милош Симоновски
+stu2201321071@uni-plovdiv.bg - Йордан Топов
+stu2201321078@uni-plovdiv.bg - Никола Гочев
+stu2201321057@uni-plovdiv.bg - Калоян Червенков
+stu2201321067@uni-plovdiv.bg - Стефан Събев
+stu2201321073@uni-plovdiv.bg - Мерт Мустафа
+stu2201321010@uni-plovdiv.bg - Александър Карагьозов
+stu2201321053@uni-plovdiv.bg - Константин Бобровски
+stu2201321020@uni-plovdiv.bg - Даниел Узунув
+
+
+Стоил Плачков - stu2201321033@uni-plovdiv.bg
+Ивайло Илиев  - stu2201321047@uni-plovdiv.bg
+
+stu2201321009@uni-plovdiv.bg - Теодора Атанасова
